@@ -65,6 +65,9 @@ hr {
     margin-bottom: 80px;
 }
 /* ------------Section - 1----------- */
+p {
+    font size: 20px
+}
 .section-1 {
     margin-block: 48px;
 }
@@ -76,9 +79,7 @@ hr {
     font-size: 80px;
     margin-bottom: 32px;
 }
-.section-1 .section-1-text p {
-    font-size: 32px;
-}
+
 .section-1 .grid-container {
     display: grid;
     grid-template-rows: auto auto;
@@ -109,9 +110,7 @@ hr {
 .section-2 hr {
     margin-block: 80px;
 }
-.section-2 p {
-    font-size: 20px;
-}
+
 .section-2 .grid-container {
     display: grid;
     grid-template-columns: auto auto;
@@ -156,9 +155,7 @@ hr {
 .section-4-content h3 {
     font-size: 32px;
 }
-.section-4-content p{
-    font-size: 20px;
-}
+
 .section-4 hr {
     margin-top: 96px;
 }
