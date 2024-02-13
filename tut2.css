@@ -3,35 +3,31 @@
     padding: 0;
     box-sizing: border-box;
 }
-header{
-    background-image: url(./images/background-image.jpg);
+header {
+    background-image: url("images/background.jpg");
     background-size: cover;
     height: 100vh;
 }
-.container{
-    padding: 0 16px;
-    margin: 0 80px;
-}
 
-
-a{
+a {
     text-decoration: none;
     color: white;
     margin-left: 50px;
 }
-.navbar{
+
+.navbar {
     display: flex;
     flex-direction: row-reverse;
     margin-right: 100px;
     font-size: 18px;
 }
+
 .logo {
     color: white;
     font-size: 28px;
     margin-left: 100px;
     padding-top: 30px;
 }
-
 
 .header-content {
     text-align: center;
